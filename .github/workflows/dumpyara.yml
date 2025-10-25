@@ -1,4 +1,4 @@
-name: Dump
+name: Dumper
 
 on:
   workflow_dispatch:
